@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "652799648536",
+    "project_id": "flutter-realtime-localization",
+    "storage_bucket": "flutter-realtime-localization.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652799648536:android:1c064003c0c12e1ab7b46d",
+        "android_client_info": {
+          "package_name": "com.app.flutterrealtimelocalization"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652799648536-eiprdmrdsbta232pu9q453gv7u94skpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.flutterrealtimelocalization",
+            "certificate_hash": "efd695ab6fc796638121cc885b5f05c559beeb94"
+          }
+        },
+        {
+          "client_id": "652799648536-a81tsg4ofhoaqt3h4eh2kibr8g4qeuod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxdp1NP3avy8okCF5mYCyx3ZCS_sbILMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652799648536-a81tsg4ofhoaqt3h4eh2kibr8g4qeuod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
